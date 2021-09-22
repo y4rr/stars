@@ -112,7 +112,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [neko](https://github.com/HaxeFoundation/neko) | The Neko Virtual Machine | HaxeFoundation | 470 |
 | 2 |  [DSSP-32](https://github.com/trinarygroup/DSSP-32) | Dialog System for Structured Programming | trinarygroup | 6 |
-| 3 |  [ssheven](https://github.com/cy384/ssheven) | A modern SSH client for Mac OS 7/8/9 | cy384 | 396 |
+| 3 |  [ssheven](https://github.com/cy384/ssheven) | A modern SSH client for Mac OS 7/8/9 | cy384 | 397 |
 | 4 |  [FinderMenu](https://github.com/mezeo/FinderMenu) | Adding items to Finder&#39;s contextual menu | mezeo | 2 |
 | 5 |  [goldendict](https://github.com/goldendict/goldendict) | A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case. | goldendict | 4009 |
 | 6 |  [ansipipe](https://github.com/robhagemans/ansipipe) | Create dual console/GUI applications on Windows with support for ANSI escape sequences and UTF-8 | robhagemans | 5 |
@@ -144,20 +144,20 @@
 | 32 |  [dummy_thicc](https://github.com/saagarjha/dummy_thicc) | 0xcafebabe | saagarjha | 58 |
 | 33 |  [TSOEnabler](https://github.com/saagarjha/TSOEnabler) | Kernel extension that enables TSO for Apple silicon processes | saagarjha | 157 |
 | 34 |  [xnu-qemu-arm64-tools](https://github.com/alephsecurity/xnu-qemu-arm64-tools) |  | alephsecurity | 127 |
-| 35 |  [xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64) |  | alephsecurity | 1131 |
+| 35 |  [xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64) |  | alephsecurity | 1132 |
 | 36 |  [AudioFrameworks](https://github.com/sbooth/AudioFrameworks) | macOS builds of various open-source audio libraries | sbooth | 56 |
 | 37 |  [sed-bin](https://github.com/lhoursquentin/sed-bin) | sed to C translator written in sed | lhoursquentin | 266 |
 | 38 |  [vak-opensource](https://github.com/sergev/vak-opensource) | Public sources and various open projects of my collection | sergev | 30 |
 | 39 |  [objc4_debug](https://github.com/LGCooci/objc4_debug) | 🌈可编译苹果官方源码objc！现在有objc4底层源码,以及libmalloc等可编译版本，大家可以自由LLDB调试！ | LGCooci | 656 |
 | 40 |  [mach_override](https://github.com/rentzsch/mach_override) | runtime function overriding for Mac OS X | rentzsch | 385 |
 | 41 |  [CubeE](https://github.com/elliotnunn/CubeE) |  | elliotnunn | 7 |
-| 42 |  [projectm](https://github.com/projectM-visualizer/projectm) | projectM - cross-platform music visualization. Open-source and Milkdrop-compatible | projectM-visualizer | 1359 |
+| 42 |  [projectm](https://github.com/projectM-visualizer/projectm) | projectM - cross-platform music visualization. Open-source and Milkdrop-compatible | projectM-visualizer | 1360 |
 | 43 |  [macos-disable-library-validation](https://github.com/mologie/macos-disable-library-validation) | A tiny macOS 10.12 Sierra kernel extension for disabling CS_REQUIRE_LV system-wide | mologie | 61 |
 | 44 |  [lexbor](https://github.com/lexbor/lexbor) | Lexbor is development of an open source HTML Renderer library. http://lexbor.com | lexbor | 437 |
 | 45 |  [fzy](https://github.com/jhawthorn/fzy) | :mag: A simple, fast fuzzy finder for the terminal | jhawthorn | 2225 |
 | 46 |  [system-bus-radio](https://github.com/fulldecent/system-bus-radio) | Transmits AM radio on computers without radio transmitting hardware. | fulldecent | 5797 |
-| 47 |  [recon-my-way](https://github.com/ehsahil/recon-my-way) | This repository created for personal use and added tools from my latest blog post. | ehsahil | 293 |
-| 48 |  [BlackHole](https://github.com/ExistentialAudio/BlackHole) | BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. | ExistentialAudio | 6141 |
+| 47 |  [recon-my-way](https://github.com/ehsahil/recon-my-way) | This repository created for personal use and added tools from my latest blog post. | ehsahil | 294 |
+| 48 |  [BlackHole](https://github.com/ExistentialAudio/BlackHole) | BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency. | ExistentialAudio | 6142 |
 | 49 |  [kilo](https://github.com/antirez/kilo) | A text editor in less than 1000 LOC with syntax highlight and search. | antirez | 5222 |
 | 50 |  [yabai](https://github.com/koekeishiya/yabai) | A tiling window manager for macOS based on binary space partitioning | koekeishiya | 7897 |
 | 51 |  [hsp4](https://github.com/Siguza/hsp4) | macOS kext for host_special_port(4) patch | Siguza | 83 |
@@ -171,14 +171,14 @@
 | 59 |  [dylib_injector](https://github.com/attilathedud/dylib_injector) | An injector to load dynamic libraries into other processes&#39; memory | attilathedud | 13 |
 | 60 |  [acme2k](https://github.com/karahobny/acme2k) | acme2k - text editor fo&#39; all the cool cats who ain&#39;t &#39;fraid of no mice | karahobny | 158 |
 | 61 |  [sslsplit](https://github.com/droe/sslsplit) | Transparent SSL/TLS interception | droe | 1418 |
-| 62 |  [goaccess](https://github.com/allinurl/goaccess) | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | allinurl | 13777 |
+| 62 |  [goaccess](https://github.com/allinurl/goaccess) | GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. | allinurl | 13778 |
 
 **[⬆ Back to Index](#-contents)**
 
 ## C#
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) | Everything integration for the Windows taskbar. | stnkl | 3333 |
+| 1 |  [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) | Everything integration for the Windows taskbar. | stnkl | 3335 |
 | 2 |  [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) | Creative and unusual things that can be done with the Windows API. | LazoCoder | 2153 |
 | 3 |  [DaxStudio](https://github.com/DaxStudio/DaxStudio) | DAX Studio is a tool to write, execute, and analyze DAX queries in Power BI Desktop, Power Pivot for Excel, and Analysis Services Tabular. | DaxStudio | 386 |
 | 4 |  [CDM](https://github.com/microsoft/CDM) | The Common Data Model (CDM) is a standard and extensible collection of schemas (entities, attributes, relationships) that represents business concepts and activities with well-defined semantics, to facilitate data interoperability. Examples of entities include: Account, Contact, Lead, Opportunity, Product, etc. | microsoft | 1003 |
@@ -188,7 +188,7 @@
 | 8 |  [ios-samples](https://github.com/xamarin/ios-samples) | Xamarin.iOS sample apps | xamarin | 1488 |
 | 9 |  [recommenders_engine_example_layout](https://github.com/microsoft/recommenders_engine_example_layout) | An example cross-platform movie recommendation application built using Xamarin.Forms and Azure ML service | microsoft | 92 |
 | 10 |  [NetRadio](https://github.com/ophthalmos/NetRadio) | NetRadio is a Windows application to stream and manage radio stations. | ophthalmos | 6 |
-| 11 |  [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity | microsoft | 60576 |
+| 11 |  [PowerToys](https://github.com/microsoft/PowerToys) | Windows system utilities to maximize productivity | microsoft | 60577 |
 | 12 |  [TabularEditor](https://github.com/TabularEditor/TabularEditor) | This is the code repository and issue tracker for Tabular Editor 2.X (free, open-source version). | TabularEditor | 547 |
 | 13 |  [Analysis-Services](https://github.com/microsoft/Analysis-Services) | Git repo for Analysis Services samples and community projects | microsoft | 344 |
 | 14 |  [dwarfcorp](https://github.com/Blecki/dwarfcorp) | An open-source 3D colony management game for PC, Mac and Linux | Blecki | 472 |
@@ -199,12 +199,12 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [MacSubstitute](https://github.com/pixelomer/MacSubstitute) |  | pixelomer | 5 |
-| 2 |  [organicmaps](https://github.com/organicmaps/organicmaps) | 🍃 Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Your donations and positive reviews motivate and inspire our small team! | organicmaps | 2601 |
+| 2 |  [organicmaps](https://github.com/organicmaps/organicmaps) | 🍃 Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Your donations and positive reviews motivate and inspire our small team! | organicmaps | 2602 |
 | 3 |  [dooble](https://github.com/textbrowser/dooble) | Dooble, the scientific browser. Minimal, cute, and unusually stable. Completed. | textbrowser | 200 |
-| 4 |  [re3](https://github.com/GTAmodding/re3) | GTA III, Vice City | GTAmodding | 6858 |
+| 4 |  [re3](https://github.com/GTAmodding/re3) | GTA III, Vice City | GTAmodding | 6862 |
 | 5 |  [impala-udf-samples](https://github.com/cloudera/impala-udf-samples) | Sample UDF and UDAs for Impala. | cloudera | 55 |
 | 6 |  [sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) | Official home of the DB Browser for SQLite (DB4S) project. Previously known as &#34;SQLite Database Browser&#34; and &#34;Database Browser for SQLite&#34;. Website at: | sqlitebrowser | 15430 |
-| 7 |  [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 | SerenityOS | 15620 |
+| 7 |  [serenity](https://github.com/SerenityOS/serenity) | The Serenity Operating System 🐞 | SerenityOS | 15621 |
 | 8 |  [aids](https://github.com/rexim/aids) | std replacement for C++ | rexim | 47 |
 | 9 |  [macdylibbundler](https://github.com/auriamg/macdylibbundler) | Utility to ease bundling libraries into executables for OSX | auriamg | 407 |
 | 10 |  [WCMCommander](https://github.com/corporateshark/WCMCommander) | :computer: WCM Commander | corporateshark | 358 |
@@ -213,7 +213,7 @@
 | 13 |  [WingOS](https://github.com/Supercip971/WingOS) | a little 64bit operating system written in c++ with smp support | Supercip971 | 583 |
 | 14 |  [alphasql](https://github.com/Matts966/alphasql) | AlphaSQL provides Integrated Type and Schema Check and Parallelization for SQL file set mainly for BigQuery | Matts966 | 29 |
 | 15 |  [executor](https://github.com/autc04/executor) | A modern fork of the classic Mac emulator | autc04 | 83 |
-| 16 |  [devilutionX](https://github.com/diasurgical/devilutionX) | Diablo build for modern operating systems | diasurgical | 4718 |
+| 16 |  [devilutionX](https://github.com/diasurgical/devilutionX) | Diablo build for modern operating systems | diasurgical | 4720 |
 | 17 |  [Vangers](https://github.com/KranX/Vangers) | The video game that combines elements of the racing and role-playing genres. | KranX | 409 |
 | 18 |  [dxwrapper](https://github.com/elishacloud/dxwrapper) | Fixes compatibility issues with older games running on Windows 10 by wrapping DirectX dlls.  Also allows loading custom libraries with the file extension .asi into game processes. | elishacloud | 544 |
 | 19 |  [symphytum](https://github.com/giowck/symphytum) | Symphytum Personal Database Software | giowck | 333 |
@@ -227,13 +227,13 @@
 | 27 |  [CToy](https://github.com/anael-seghezzi/CToy) | Interactive C live coding environment | anael-seghezzi | 990 |
 | 28 |  [render-with-notepad](https://github.com/khalladay/render-with-notepad) | A series of programs demonstrating the basics of Memory Scanning, Api Hooking and DLL Injection. The high point is using Notepad.exe as a render target, and playing snake in a notepad window | khalladay | 324 |
 | 29 |  [falltergeist](https://github.com/falltergeist/falltergeist) | Opensource crossplatform Fallout 2™ game engine writen in C++ and SDL. | falltergeist | 698 |
-| 30 |  [endless-sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. | endless-sky | 3273 |
+| 30 |  [endless-sky](https://github.com/endless-sky/endless-sky) | Space exploration, trading, and combat game. | endless-sky | 3274 |
 | 31 |  [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) | Quick Look extension for highlight source code files on macOS Catalina and Big Sur. | sbarex | 572 |
 | 32 |  [yuzu](https://github.com/yuzu-emu/yuzu) | Nintendo Switch Emulator | yuzu-emu | 16277 |
 | 33 |  [navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen) | A keygen for Navicat | DoubleLabyrinth | 9317 |
 | 34 |  [SourceFinagler](https://github.com/NSGod/SourceFinagler) | Source Finagler is a Mac OS X app designed to enhance the integration of Valve Software&#39;s Steam.app client and games for OS X. http://www.markdouma.com/sourcefinagler/ | NSGod | 8 |
 | 35 |  [qBittorrent](https://github.com/qbittorrent/qBittorrent) | qBittorrent BitTorrent client | qbittorrent | 13057 |
-| 36 |  [transmission](https://github.com/transmission/transmission) | Official Transmission BitTorrent client repository | transmission | 6004 |
+| 36 |  [transmission](https://github.com/transmission/transmission) | Official Transmission BitTorrent client repository | transmission | 6006 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -246,7 +246,7 @@
 | 4 |  [jekyll-apple-help](https://github.com/chuckhoupt/jekyll-apple-help) | Easily create Apple Help-Books for your Mac OS X app using this Jekyll template and build system. | chuckhoupt | 151 |
 | 5 |  [stylus-UserCSS](https://github.com/stonecrusher/stylus-UserCSS) | Collection of my UserCSS styles for Stylus browser extension | stonecrusher | 14 |
 | 6 |  [UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) | A community maintained repository of userChrome.css tweaks for Firefox | Timvde | 1148 |
-| 7 |  [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) | Short CSS code snippets for all your development needs | 30-seconds | 14674 |
+| 7 |  [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css) | Short CSS code snippets for all your development needs | 30-seconds | 14673 |
 | 8 |  [ion](https://github.com/lukakerr/ion) | A lightweight CSS framework that brings MacOS styled elements to Electron | lukakerr | 127 |
 | 9 |  [cssdig-chrome](https://github.com/tomgenoni/cssdig-chrome) | Chrome extension for analyzing CSS. | tomgenoni | 347 |
 | 10 |  [Overlay-Scrollbars](https://github.com/StylishThemes/Overlay-Scrollbars) | 🎨 An overlay scrollbar customizable theme for Firefox and Chrome based browsers | StylishThemes | 88 |
@@ -273,7 +273,7 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [yakyak](https://github.com/yakyak/yakyak) | Desktop chat client for Google Hangouts | yakyak | 3873 |
-| 2 |  [trix](https://github.com/basecamp/trix) | A rich text editor for everyday writing | basecamp | 16410 |
+| 2 |  [trix](https://github.com/basecamp/trix) | A rich text editor for everyday writing | basecamp | 16411 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -303,7 +303,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads &amp; trackers blocking DNS server | AdguardTeam | 8907 |
 | 2 |  [tinylru](https://github.com/tidwall/tinylru) | A fast little LRU cache for Go | tidwall | 87 |
-| 3 |  [ipsw](https://github.com/blacktop/ipsw) | iOS/macOS Research Swiss Army Knife | blacktop | 394 |
+| 3 |  [ipsw](https://github.com/blacktop/ipsw) | iOS/macOS Research Swiss Army Knife | blacktop | 395 |
 | 4 |  [bionic](https://github.com/bionic/bionic) | Convert data exports from various services to a single SQLite database | bionic | 108 |
 | 5 |  [plumber](https://github.com/batchcorp/plumber) | A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems. | batchcorp | 848 |
 | 6 |  [binee](https://github.com/carbonblack/binee) | Binee: binary emulation environment | carbonblack | 421 |
@@ -327,7 +327,7 @@
 | 4 |  [backtomac.github.io](https://github.com/backtomac/backtomac.github.io) | Website for the Back to the Mac conference | backtomac | 5 |
 | 5 |  [PBD365](https://github.com/CriticalPathTraining/PBD365) | This repository holds the student files for Power BI Developer Boot Camp (PDB365) by Critical Path Training | CriticalPathTraining | 16 |
 | 6 |  [tools-list](https://github.com/everestpipkin/tools-list) | Open source, experimental, and tiny tools roundup | everestpipkin | 1146 |
-| 7 |  [chart-doctor](https://github.com/Financial-Times/chart-doctor) | Sample files to accompany the FT&#39;s Chart Doctor column | Financial-Times | 2104 |
+| 7 |  [chart-doctor](https://github.com/Financial-Times/chart-doctor) | Sample files to accompany the FT&#39;s Chart Doctor column | Financial-Times | 2105 |
 | 8 |  [mvp](https://github.com/andybrewer/mvp) | MVP.css — Minimalist stylesheet for HTML elements | andybrewer | 3641 |
 | 9 |  [syndicate](https://github.com/kaishin/syndicate) | Safari extension that brings the RSS button back to the toolbar. | kaishin | 43 |
 | 10 |  [D3-graph-gallery](https://github.com/holtzy/D3-graph-gallery) | A collection of simple graphics made with D3.js | holtzy | 456 |
@@ -386,8 +386,8 @@
 | 6 |  [platform](https://github.com/lsfusion/platform) | lsFusion is an extremely declarative open-source language-based platform for information systems development | lsfusion | 63 |
 | 7 |  [marquez](https://github.com/MarquezProject/marquez) | Collect, aggregate, and visualize a data ecosystem&#39;s metadata | MarquezProject | 779 |
 | 8 |  [Amadeus](https://github.com/Yink/Amadeus) | A side project that aims to replicate the Amadeus App shown in Steins;Gate 0. | Yink | 798 |
-| 9 |  [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) | A Java 8+ Jar &amp; Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger &amp; More) | Konloch | 12428 |
-| 10 |  [Recaf](https://github.com/Col-E/Recaf) | The modern Java bytecode editor | Col-E | 3098 |
+| 9 |  [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) | A Java 8+ Jar &amp; Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger &amp; More) | Konloch | 12429 |
+| 10 |  [Recaf](https://github.com/Col-E/Recaf) | The modern Java bytecode editor | Col-E | 3099 |
 | 11 |  [milkman](https://github.com/warmuuh/milkman) |  | warmuuh | 786 |
 | 12 |  [BiglyBT](https://github.com/BiglySoftware/BiglyBT) | Feature-filled Bittorrent client based on the Azureus open source project | BiglySoftware | 762 |
 | 13 |  [solo](https://github.com/b3log/solo) | 仓库已经迁移到 https://github.com/88250/solo | b3log | 13243 |
@@ -410,17 +410,17 @@
 | 2 |  [dailyhack](https://github.com/mddanishyusuf/dailyhack) | 🐱‍💻 Tiny Tiny Hacks we use in our daily life. | mddanishyusuf | 143 |
 | 3 |  [FFprefs-diffs](https://github.com/earthlng/FFprefs-diffs) | listing differences in Firefox prefs | earthlng | 27 |
 | 4 |  [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) | Better Discord enhances Discord desktop app with new features. | BetterDiscord | 3143 |
-| 5 |  [BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) | A series of plugins and themes for BetterDiscord. | mwittrien | 1103 |
+| 5 |  [BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) | A series of plugins and themes for BetterDiscord. | mwittrien | 1104 |
 | 6 |  [sf-symbols-vscode](https://github.com/j-f1/sf-symbols-vscode) | Change the VS Code UI’s icons to SF Symbols | j-f1 | 2 |
-| 7 |  [customize-ui](https://github.com/iocave/customize-ui) | UI Customization plugin for vscode | iocave | 282 |
-| 8 |  [vimari](https://github.com/televator-apps/vimari) | Safari port of vimium | televator-apps | 1994 |
+| 7 |  [customize-ui](https://github.com/iocave/customize-ui) | UI Customization plugin for vscode | iocave | 283 |
+| 8 |  [vimari](https://github.com/televator-apps/vimari) | Safari port of vimium | televator-apps | 1995 |
 | 9 |  [b2ntp](https://github.com/d3ward/b2ntp) | Kanban style New Tab Page extension with your bookmarks and powerful search | d3ward | 41 |
 | 10 |  [appleprivacyletter](https://github.com/nadimkobeissi/appleprivacyletter) | An open letter against Apple&#39;s new privacy-invasive client-side content scanning. | nadimkobeissi | 666 |
 | 11 |  [events](https://github.com/Semigradsky/events) | [RU] Frontend events, talks, meetups | Semigradsky | 71 |
 | 12 |  [postcss-russian-stylesheets](https://github.com/Semigradsky/postcss-russian-stylesheets) | :ru: PostCSS plugin for writing Russian Style Sheets. | Semigradsky | 62 |
 | 13 |  [postcss-russian-units](https://github.com/Semigradsky/postcss-russian-units) | :triangular_ruler: PostCSS plugin to support lengths in russian units | Semigradsky | 60 |
 | 14 |  [Stigs_Flickr_Fixr](https://github.com/StigNygaard/Stigs_Flickr_Fixr) | Flickr Fixr - It makes Flickr awesome (again) ! :-) Works as browser extension (webextension) or as userscript | StigNygaard | 7 |
-| 15 |  [Iosevka](https://github.com/be5invis/Iosevka) | Versatile typeface for code, from code. | be5invis | 12696 |
+| 15 |  [Iosevka](https://github.com/be5invis/Iosevka) | Versatile typeface for code, from code. | be5invis | 12700 |
 | 16 |  [BlockYouTubeAdsShortcut](https://github.com/AdguardTeam/BlockYouTubeAdsShortcut) | This repo contains the code for blocking YouTube ads that is supposed to be run by an iOS shortcut | AdguardTeam | 36 |
 | 17 |  [music-box](https://github.com/jacc/music-box) | 🎧 Get your last weeks listening report from last.fm in a GitHub Gist. | jacc | 78 |
 | 18 |  [TabFS](https://github.com/osnr/TabFS) | 🗄 Mount your browser tabs as a filesystem. | osnr | 2967 |
@@ -428,7 +428,7 @@
 | 20 |  [defi](https://github.com/finom/defi) | A bunch of utilities that enable accessor-based reactivity for JavaScript objects | finom | 47 |
 | 21 |  [Scriptlets](https://github.com/AdguardTeam/Scriptlets) | AdGuard scriptlets library | AdguardTeam | 46 |
 | 22 |  [AdNauseam](https://github.com/dhowe/AdNauseam) | AdNauseam: Fight back against advertising surveillance | dhowe | 2996 |
-| 23 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 56965 |
+| 23 |  [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) | :bathtub: Clean Code concepts adapted for JavaScript | ryanmcdermott | 56966 |
 | 24 |  [gdrive-copy](https://github.com/ericyd/gdrive-copy) | Web app to copy a Google Drive folder | ericyd | 1265 |
 | 25 |  [Lepton](https://github.com/hackjutsu/Lepton) | 💻     Democratizing Snippet Management (macOS/Win/Linux) | hackjutsu | 8850 |
 | 26 |  [conduit.js](https://github.com/badbrainz/conduit.js) | A pipeline style of handling mutation observers | badbrainz | 2 |
@@ -450,7 +450,7 @@
 | 42 |  [fruitionsite](https://github.com/stephenou/fruitionsite) | Build your website with Notion for free | stephenou | 747 |
 | 43 |  [regexr](https://github.com/gskinner/regexr) | RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. | gskinner | 7821 |
 | 44 |  [isomorphic-ui-benchmarks](https://github.com/marko-js/isomorphic-ui-benchmarks) | Client/server benchmarks for various UI libraries | marko-js | 191 |
-| 45 |  [inferno](https://github.com/infernojs/inferno) | :fire: An extremely fast, React-like JavaScript library for building modern user interfaces | infernojs | 15097 |
+| 45 |  [inferno](https://github.com/infernojs/inferno) | :fire: An extremely fast, React-like JavaScript library for building modern user interfaces | infernojs | 15098 |
 | 46 |  [Layx](https://github.com/MonkSoul/Layx) | Layx 新一代Web弹窗组件。 | MonkSoul | 666 |
 | 47 |  [ui-study](https://github.com/baku89/ui-study) | Parameters UI Study | baku89 | 208 |
 | 48 |  [tweak-new-twitter](https://github.com/insin/tweak-new-twitter) | Browser extension which removes algorithmic content from Twitter, hides news &amp; trends, lets you control which shared tweets appear on your timeline, and adds other UI improvements | insin | 218 |
@@ -474,12 +474,12 @@
 | 66 |  [bitmidi.com](https://github.com/feross/bitmidi.com) | 🎹 Listen to free MIDI songs, download the best MIDI files, and share the best MIDIs on the web | feross | 448 |
 | 67 |  [discogs-enhancer](https://github.com/salcido/discogs-enhancer) | 100% vanilla JS Chrome extension that adds useful features and functionality to Discogs.com | salcido | 60 |
 | 68 |  [moscow-real-estate](https://github.com/EVERYDAYHERO2000/moscow-real-estate) |  | EVERYDAYHERO2000 | 1 |
-| 69 |  [stylus](https://github.com/openstyles/stylus) | Stylus - Userstyles Manager | openstyles | 3504 |
+| 69 |  [stylus](https://github.com/openstyles/stylus) | Stylus - Userstyles Manager | openstyles | 3505 |
 | 70 |  [microjs.com](https://github.com/microjs/microjs.com) | Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit! | microjs | 1917 |
 | 71 |  [fuzzysearch](https://github.com/bevacqua/fuzzysearch) | :crystal_ball: Tiny and blazing-fast fuzzy search in JavaScript | bevacqua | 2585 |
-| 72 |  [json-server](https://github.com/typicode/json-server) | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | typicode | 56453 |
+| 72 |  [json-server](https://github.com/typicode/json-server) | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | typicode | 56454 |
 | 73 |  [chromatic-sketch](https://github.com/petterheterjag/chromatic-sketch) | Sketch plugin for creating good-looking and perceptually uniform gradients and color scales. | petterheterjag | 448 |
-| 74 |  [butterchurn](https://github.com/jberg/butterchurn) | Butterchurn is a WebGL implementation of the Milkdrop Visualizer | jberg | 919 |
+| 74 |  [butterchurn](https://github.com/jberg/butterchurn) | Butterchurn is a WebGL implementation of the Milkdrop Visualizer | jberg | 920 |
 | 75 |  [prelude-jxa](https://github.com/RobTrew/prelude-jxa) | Generic functions for macOS and iOS scripting in Javascript – function names as in Hoogle | RobTrew | 46 |
 | 76 |  [userscript-proxy](https://github.com/eBay/userscript-proxy) | HTTP proxy to inject scripts and stylesheets into existing sites. | eBay | 57 |
 | 77 |  [interactivate](https://github.com/Gozala/interactivate) | Interactive code editing in browser | Gozala | 47 |
@@ -495,41 +495,41 @@
 | 87 |  [iridium](https://github.com/maxkorsov/iridium) | YouTube with more freedom | maxkorsov | 3 |
 | 88 |  [Injector](https://github.com/tsbehlman/Injector) | User CSS &amp; JS extension for Safari 5+ | tsbehlman | 11 |
 | 89 |  [MacSosumi](https://github.com/tylerhall/MacSosumi) | Desktop Find My iPhone client for Mac OS X. | tylerhall | 101 |
-| 90 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 30-seconds | 85814 |
+| 90 |  [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) | Short JavaScript code snippets for all your development needs | 30-seconds | 85836 |
 | 91 |  [stylem](https://github.com/Lootyhoof/stylem) | This has moved to the Pale Moon Gitea: https://repo.palemoon.org/Lootyhoof/stylem | Lootyhoof | 15 |
 | 92 |  [tota11y](https://github.com/Khan/tota11y) | an accessibility (a11y) visualization toolkit | Khan | 4809 |
 | 93 |  [launchy](https://github.com/svinkle/launchy) | Launchy: An Accessible Modal Window | svinkle | 104 |
 | 94 |  [userscript-helpers](https://github.com/HatScripts/userscript-helpers) | Helper functions for userscripts, bookmarklets, or wherever else you need them | HatScripts | 3 |
 | 95 |  [boomlet](https://github.com/busterc/boomlet) | :boom: Bookmarklet compiler encloses, encodes, minifies your Javascript file and opens an HTML page with your new bookmarklet for immediate use. | busterc | 169 |
-| 96 |  [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers | yangshun | 58841 |
+| 96 |  [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) | 💯 Curated interview preparation materials for busy engineers | yangshun | 58847 |
 | 97 |  [telegram-react](https://github.com/evgeny-nadymov/telegram-react) | Experimental Telegram web client with tdlib, webassembly and react js under the hood | evgeny-nadymov | 1632 |
 | 98 |  [fzy.js](https://github.com/jhawthorn/fzy.js) | A javascript port of fzy&#39;s scoring algorithm. As seen on GitHub.com! | jhawthorn | 94 |
 | 99 |  [city-roads](https://github.com/anvaka/city-roads) | Visualization of all roads within any city | anvaka | 3966 |
 | 100 |  [privee](https://github.com/privacy-tech-lab/privee) | Google Chrome extension using machine learning to summarize privacy policies | privacy-tech-lab | 15 |
-| 101 |  [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 📜 33 JavaScript concepts every developer should know. | leonardomso | 43508 |
+| 101 |  [33-js-concepts](https://github.com/leonardomso/33-js-concepts) | 📜 33 JavaScript concepts every developer should know. | leonardomso | 43511 |
 | 102 |  [kao](https://github.com/fand/kao) | CLI kaomoji searcher | fand | 69 |
 | 103 |  [localtunnel](https://github.com/localtunnel/localtunnel) | expose yourself | localtunnel | 12597 |
 | 104 |  [esqlate](https://github.com/forbesmyester/esqlate) | Build minimum viable admin panels quickly with just SQL | forbesmyester | 1385 |
 | 105 |  [Userscripts](https://github.com/AdguardTeam/Userscripts) | Userscripts made by our team | AdguardTeam | 28 |
 | 106 |  [DisableAMP](https://github.com/AdguardTeam/DisableAMP) | Disable AMP userscript | AdguardTeam | 29 |
-| 107 |  [rollup](https://github.com/rollup/rollup) | Next-generation ES module bundler | rollup | 20627 |
+| 107 |  [rollup](https://github.com/rollup/rollup) | Next-generation ES module bundler | rollup | 20630 |
 | 108 |  [swiftui-playground](https://github.com/kishikawakatsumi/swiftui-playground) | SwiftUI Online Playground | kishikawakatsumi | 98 |
 | 109 |  [BetterDiscordApp](https://github.com/Lone-Soul/BetterDiscordApp) | Better Discord App enhances Discord desktop app with new features. | Lone-Soul | 1 |
 | 110 |  [nani](https://github.com/destruc7i0n/nani) | Crunchyroll without the bloat | destruc7i0n | 56 |
 | 111 |  [midas](https://github.com/midas-science/midas) | midas is a framework that enables you to enrich your CSV, JSON or Excel dataset with any web API you can think of. | midas-science | 51 |
 | 112 |  [dom-simulator](https://github.com/wylieconlon/dom-simulator) | Teaching tool that visually represents an HTML document structure and shows you how to change it | wylieconlon | 2 |
-| 113 |  [preact](https://github.com/preactjs/preact) | ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. | preactjs | 29922 |
+| 113 |  [preact](https://github.com/preactjs/preact) | ⚛️ Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM. | preactjs | 29923 |
 | 114 |  [RemoveGoogleTracking](https://github.com/sceneq/RemoveGoogleTracking) |  | sceneq | 5 |
 | 115 |  [dl.biscuit](https://github.com/agata/dl.biscuit) |  | agata | 171 |
 | 116 |  [hamsket](https://github.com/TheGoddessInari/hamsket) | Free and Open Source messaging and emailing app that combines common web applications into one. | TheGoddessInari | 620 |
 | 117 |  [experiments](https://github.com/dgurkaynak/experiments) | Some experiments on generative art, creative coding and stuff | dgurkaynak | 1 |
 | 118 |  [bookmarklet](https://github.com/mrcoles/bookmarklet) | A server-side bookmarklet compiler with greasemonkey userscript-like metadata options and the power of babel and uglify | mrcoles | 157 |
 | 119 |  [FileSaver.js](https://github.com/eligrey/FileSaver.js) | An HTML5 saveAs() FileSaver implementation | eligrey | 17647 |
-| 120 |  [sql.js](https://github.com/sql-js/sql.js) | A javascript library to run SQLite on the web. | sql-js | 9332 |
+| 120 |  [sql.js](https://github.com/sql-js/sql.js) | A javascript library to run SQLite on the web. | sql-js | 9333 |
 | 121 |  [responsivr.js](https://github.com/artpolikarpov/responsivr.js) | A small piece of JavaScript that makes sites more responsive even if they are completely fixed | artpolikarpov | 5 |
-| 122 |  [smartcrop.js](https://github.com/jwagner/smartcrop.js) | Content aware image cropping | jwagner | 12244 |
-| 123 |  [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 40036 |
-| 124 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 120262 |
+| 122 |  [smartcrop.js](https://github.com/jwagner/smartcrop.js) | Content aware image cropping | jwagner | 12245 |
+| 123 |  [iptv](https://github.com/iptv-org/iptv) | Collection of publicly available IPTV channels from all over the world | iptv-org | 40043 |
+| 124 |  [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings | trekhleb | 120268 |
 | 125 |  [witchcraft](https://github.com/luciopaiva/witchcraft) | Inject Javascript and CSS right from your file system. Think GreaseMonkey for more advanced users. | luciopaiva | 176 |
 | 126 |  [YouTube-Extension](https://github.com/code4charity/YouTube-Extension) | YouTube Extension 🎧80+Features🧰Please⭐document, code or donate📌Tidy📌Longest-standing©️2012. Users👨‍👩‍👧‍👧380,000+ ⚙️⋮⏯️🎞️☕🎛️🔴🎬🔊🎨🧩🧪📈Player: Repeat Screenshot Rotate; Hide related video distraction. Always expand video Description. Playback speed. Video Quality bandwidth H.264 electricity. Player Size Full Window. Themes Customization. Statistics. Playlist Reverse YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube YouTube Youtube enhancer YouTube app YouTube video YouTube YouTube YouTube api v3 YouTube playback YouTube player VP8 VP9 AV1 vidIQ tubebuddy download adblocker adblock ads sponsorblock addon youtube music ⭐ youtube premium css css4 html5 ytdl youtube-dl invidious iridium ParticleCore youtube+ youtube++ youtube-plus maia-yt youtube nonstop youtube control center vlogger vlog h264ify h264 m.youtube.com music.youtube.com studio.youtube youtube mobile youtube studio ⭐ kids Vanced gaming.youtube.com gaming youtubecenter freetube lite-youtube-embed newpipe youtube-dl-gui  mps-youtube nuclear pytube awesome youtubers youtube downloader 8k 4k 60fps 30fps youtubeexplode vidgear k-lite tubebuddy adobe apple ios iphone design simplify ffmpeg premiere designer annoyance  youtube upload | code4charity | 1488 |
 | 127 |  [qvcodefriend.github.io](https://github.com/qvcodefriend/qvcodefriend.github.io) | Develop Xcode Extensions with JavaScript | qvcodefriend | 19 |
@@ -546,8 +546,8 @@
 | 138 |  [earth](https://github.com/cambecc/earth) | a project to visualize global weather conditions | cambecc | 4411 |
 | 139 |  [2017-frontend](https://github.com/qri-io/2017-frontend) | qri electron &amp; web frontend | qri-io | 24 |
 | 140 |  [alexandersobyanin.ru](https://github.com/alexandersobyanin/alexandersobyanin.ru) |  | alexandersobyanin | 1 |
-| 141 |  [reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework | hakimel | 57327 |
-| 142 |  [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) | Bypass Paywalls web browser extension for Chrome and Firefox. | iamadamdev | 18831 |
+| 141 |  [reveal.js](https://github.com/hakimel/reveal.js) | The HTML Presentation Framework | hakimel | 57326 |
+| 142 |  [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) | Bypass Paywalls web browser extension for Chrome and Firefox. | iamadamdev | 18834 |
 | 143 |  [guiflow](https://github.com/muran001/guiflow) | a text editor for ui flow | muran001 | 2 |
 | 144 |  [uiflow](https://github.com/hirokidaichi/uiflow) | uiflow - the simplest way to write down your ui-flow diagram like markdown | hirokidaichi | 399 |
 | 145 |  [wintertime-mac-background-freezer](https://github.com/actuallymentor/wintertime-mac-background-freezer) | Freeze apps running in the background (as in: not explicitly foreground) to save battery. | actuallymentor | 98 |
@@ -558,9 +558,9 @@
 | 150 |  [extensions](https://github.com/raindropio/extensions) | Source code of Raindrop.io browser extension (Chrome, Firefox, Opera) | raindropio | 455 |
 | 151 |  [analytics.js](https://github.com/segmentio/analytics.js) | The hassle-free way to integrate analytics into any web application. | segmentio | 4707 |
 | 152 |  [instant.page](https://github.com/instantpage/instant.page) | Make your site’s pages instant in 1 minute and improve your conversion rate by 1% | instantpage | 5429 |
-| 153 |  [fitty](https://github.com/rikschennink/fitty) | ✨ Makes text fit perfectly | rikschennink | 3290 |
+| 153 |  [fitty](https://github.com/rikschennink/fitty) | ✨ Makes text fit perfectly | rikschennink | 3291 |
 | 154 |  [shiny](https://github.com/rikschennink/shiny) | 🌟 Shiny reflections for mobile websites | rikschennink | 2816 |
-| 155 |  [alasql](https://github.com/agershun/alasql) | AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel. | agershun | 5646 |
+| 155 |  [alasql](https://github.com/agershun/alasql) | AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel. | agershun | 5647 |
 | 156 |  [flexsearch](https://github.com/nextapps-de/flexsearch) | Next-Generation full text search library for Browser and Node.js | nextapps-de | 7864 |
 | 157 |  [pocket-pocket](https://github.com/nju33/pocket-pocket) | 📖 Unofficial pocket app for searching and accessing | nju33 | 2 |
 | 158 |  [git-history](https://github.com/pomber/git-history) | Quickly browse the history of a file from any git repository | pomber | 12620 |
@@ -578,7 +578,7 @@
 ## Jsonnet
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [jsonnet](https://github.com/google/jsonnet) | Jsonnet - The data templating language | google | 5088 |
+| 1 |  [jsonnet](https://github.com/google/jsonnet) | Jsonnet - The data templating language | google | 5089 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -589,13 +589,13 @@
 | 2 |  [tsql.tech-Code-snippets](https://github.com/EmanueleMeazzo/tsql.tech-Code-snippets) | Useful SQL Server scripts/SPs for DBA or SQL Developers that I use and/or have created | EmanueleMeazzo | 47 |
 | 3 |  [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) | 💿 Free software that works great, and also happens to be open-source Python. | mahmoud | 13036 |
 | 4 |  [aphantasia](https://github.com/eps696/aphantasia) | CLIP + FFT/DWT = text-to-image | eps696 | 274 |
-| 5 |  [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) | Create HTML profiling reports from pandas DataFrame objects | pandas-profiling | 7960 |
+| 5 |  [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) | Create HTML profiling reports from pandas DataFrame objects | pandas-profiling | 7961 |
 | 6 |  [pbiworkshops](https://github.com/microsoft/pbiworkshops) | Training workshops for Power BI. | microsoft | 100 |
 | 7 |  [workshops](https://github.com/budapestpy-workshops/workshops) | Notebooks and other files from the workshops. | budapestpy-workshops | 18 |
 | 8 |  [Deej-AI](https://github.com/teticio/Deej-AI) | Create automatic playlists by using Deep Learning to *listen* to the music | teticio | 88 |
 | 9 |  [pr201](https://github.com/bdemeshev/pr201) | Probability theory and statistics seminars in hse (russian language) | bdemeshev | 26 |
 | 10 |  [sqlworkshops](https://github.com/microsoft/sqlworkshops) | SQL Server Workshops | microsoft | 594 |
-| 11 |  [Anime4K](https://github.com/bloc97/Anime4K) | A High-Quality Real Time Upscaler for Anime Video | bloc97 | 13573 |
+| 11 |  [Anime4K](https://github.com/bloc97/Anime4K) | A High-Quality Real Time Upscaler for Anime Video | bloc97 | 13574 |
 | 12 |  [data](https://github.com/fivethirtyeight/data) | Data and code behind the articles and graphics at FiveThirtyEight | fivethirtyeight | 15054 |
 
 **[⬆ Back to Index](#-contents)**
@@ -603,7 +603,7 @@
 ## Lean
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Cosette](https://github.com/uwdb/Cosette) | Cosette is an automated SQL solver. | uwdb | 546 |
+| 1 |  [Cosette](https://github.com/uwdb/Cosette) | Cosette is an automated SQL solver. | uwdb | 547 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -623,7 +623,7 @@
 ## Lua
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [waifu2x](https://github.com/nagadomi/waifu2x) | Image Super-Resolution for Anime-Style Art | nagadomi | 21976 |
+| 1 |  [waifu2x](https://github.com/nagadomi/waifu2x) | Image Super-Resolution for Anime-Style Art | nagadomi | 21977 |
 | 2 |  [keyboard](https://github.com/jasonrudolph/keyboard) | ⌨ Toward a more useful keyboard | jasonrudolph | 1501 |
 
 **[⬆ Back to Index](#-contents)**
@@ -656,7 +656,7 @@
 ## Mercury
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) | This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device. | DanTheMan827 | 3986 |
+| 1 |  [ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) | This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device. | DanTheMan827 | 3987 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -724,7 +724,7 @@
 | 45 |  [fmjs](https://github.com/ccgus/fmjs) | A JavaScript to C/Cocoa bridge | ccgus | 32 |
 | 46 |  [CoreGraphicsExtension](https://github.com/kinglouie/CoreGraphicsExtension) | macOS Library that aids with private CoreGraphics functions | kinglouie | 2 |
 | 47 |  [Sdef-Editor](https://github.com/Jean-Daniel/Sdef-Editor) | Scripting Definition Dictionary Editor | Jean-Daniel | 30 |
-| 48 |  [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Mac Mouse Fix - A simple way to make your mouse better. | noah-nuebling | 661 |
+| 48 |  [mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) | Mac Mouse Fix - A simple way to make your mouse better. | noah-nuebling | 662 |
 | 49 |  [iStroke](https://github.com/dabaopku/iStroke) | Mac OS X mouse stroke application to accelerate your life! | dabaopku | 2 |
 | 50 |  [TakeMePop](https://github.com/hetima/TakeMePop) | drag and drop helper utility for Mac OS X | hetima | 33 |
 | 51 |  [UliKit](https://github.com/uliwitness/UliKit) | Miscellaneous open-sourced MacOS Cocoa code by yours truly. | uliwitness | 231 |
@@ -746,7 +746,7 @@
 | 67 |  [tccplus](https://github.com/jslegendre/tccplus) | tccutil with extended capabilities.  Grant/remove accessibility permissions to any app. | jslegendre | 67 |
 | 68 |  [uebersicht](https://github.com/felixhageloh/uebersicht) | ˈyːbɐˌzɪçt | felixhageloh | 3375 |
 | 69 |  [AltSign](https://github.com/rileytestut/AltSign) |  | rileytestut | 157 |
-| 70 |  [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS | utmapp | 9083 |
+| 70 |  [UTM](https://github.com/utmapp/UTM) | Virtual machines for iOS | utmapp | 9085 |
 | 71 |  [MiddleClick-Catalina](https://github.com/artginzburg/MiddleClick-Catalina) |  Middleclick with triple click/tap for MacBook trackpad and Magic Mouse. | artginzburg | 277 |
 | 72 |  [qlstephen](https://github.com/whomwah/qlstephen) | A QuickLook plugin that lets you view plain text files without a file extension | whomwah | 2431 |
 | 73 |  [RemoteViewHost](https://github.com/avaidyam/RemoteViewHost) | Proof-of-concept using the ViewBridge.framework | avaidyam | 18 |
@@ -818,7 +818,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [git-flight-rules](https://github.com/k88hudson/git-flight-rules) | Flight rules for git | k88hudson | 37222 |
 | 2 |  [iOS-Wallpapers](https://github.com/SniperGER/iOS-Wallpapers) | An archive of every iOS wallpaper officially released by Apple | SniperGER | 4 |
-| 3 |  [Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) | Awesome-Cellular-Hacking | W00t3k | 1776 |
+| 3 |  [Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) | Awesome-Cellular-Hacking | W00t3k | 1777 |
 | 4 |  [FMHY](https://github.com/nbats/FMHY) | /r/FREEMEDIAHECKYEAH | nbats | 116 |
 | 5 |  [hoard-of-bitfonts](https://github.com/robhagemans/hoard-of-bitfonts) | turns out I like bitmap fonts | robhagemans | 762 |
 | 6 |  [awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) | 🍎 🖥 🎆 A curated list of screensavers for Mac OS X | agarrharr | 2509 |
@@ -842,7 +842,7 @@
 | 24 |  [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) | 😱 Falsehoods Programmers Believe in | kdeldycke | 16277 |
 | 25 |  [iOS-SDK-With-Passion](https://github.com/elihwyma/iOS-SDK-With-Passion) |  | elihwyma | 5 |
 | 26 |  [macOS-Developer-Resources](https://github.com/hisaac/macOS-Developer-Resources) | Resources useful in learning about development for native macOS apps | hisaac | 42 |
-| 27 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 48120 |
+| 27 |  [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | trimstray | 48121 |
 | 28 |  [Around-The-Web](https://github.com/stlpbiug/Around-The-Web) | Interesting content without you having to Bing search for it. (Yes, people use Bing!) | stlpbiug | 5 |
 | 29 |  [browser-rendering-performance](https://github.com/ufocoder/browser-rendering-performance) | A collection of browser rendering performance resources | ufocoder | 32 |
 | 30 |  [macOSMavericksTheme](https://github.com/MoonPadUSer/macOSMavericksTheme) | A Theme for macOS Mojave/Catalina to make it look like macOS Mavericks | MoonPadUSer | 31 |
@@ -889,7 +889,7 @@
 | 71 |  [Open-Cookie-Database](https://github.com/jkwakman/Open-Cookie-Database) | The Open Cookie Database is an effort to describe and categorise all major cookies. All cookie descriptions are saved in a downloadable CSV file. All contributions to the CSV file are welcomed. | jkwakman | 56 |
 | 72 |  [awesome-bigdata](https://github.com/0xnr/awesome-bigdata) | A curated list of awesome big data frameworks, ressources and other awesomeness. | 0xnr | 10258 |
 | 73 |  [telegram-list](https://github.com/goq/telegram-list) | List of telegram groups, channels &amp; bots // Список интересных групп, каналов и ботов телеграма // Список чатов для программистов | goq | 3259 |
-| 74 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 144511 |
+| 74 |  [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) | A book series on JavaScript. @YDKJS on twitter. | getify | 144512 |
 | 75 |  [fuzzyurl](https://github.com/gamache/fuzzyurl) | Ruby/Elixir/JS libraries for non-strict parsing, manipulation, and wildcard matching of URLs. | gamache | 12 |
 | 76 |  [Power-BI-Desktop-Query-Extensions](https://github.com/tnclark8012/Power-BI-Desktop-Query-Extensions) | Various M Queries that you can use to make life easy-peasy | tnclark8012 | 52 |
 | 77 |  [PowerBI-Course](https://github.com/KoenVerbeeck/PowerBI-Course) | Free open-source course for demonstrating Power BI Desktop capabilities under MIT license. | KoenVerbeeck | 16 |
@@ -897,11 +897,11 @@
 | 79 |  [lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface) | A Face detector for anime/manga using OpenCV | nagadomi | 1618 |
 | 80 |  [DataConnectors](https://github.com/microsoft/DataConnectors) | Data Connector SDK and samples for Power Query and Power BI | microsoft | 491 |
 | 81 |  [Snap-Assist](https://github.com/Dots-n-Spaces/Snap-Assist) | MacOS toolbar utility application that makes window management easier. | Dots-n-Spaces | 17 |
-| 82 |  [proxy-list](https://github.com/clarketm/proxy-list) | A list of free, public, forward proxy servers. UPDATED DAILY! | clarketm | 1407 |
+| 82 |  [proxy-list](https://github.com/clarketm/proxy-list) | A list of free, public, forward proxy servers. UPDATED DAILY! | clarketm | 1408 |
 | 83 |  [High-Sienna](https://github.com/davidbwaters/High-Sienna) | a tweaked version of the Sienna theme for Sublime Text | davidbwaters | 3 |
-| 84 |  [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) |  | jerryn70 | 488 |
+| 84 |  [GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) |  | jerryn70 | 489 |
 | 85 |  [ForeverAloneProgramming](https://github.com/nopara73/ForeverAloneProgramming) | Software Development Methodology for Solo Developers and Small Teams | nopara73 | 97 |
-| 86 |  [reverse-interview](https://github.com/viraptor/reverse-interview) | Questions to ask the company during your interview | viraptor | 18385 |
+| 86 |  [reverse-interview](https://github.com/viraptor/reverse-interview) | Questions to ask the company during your interview | viraptor | 18386 |
 | 87 |  [Awesome-Power-BI](https://github.com/NajiElKotob/Awesome-Power-BI) | Awesome Power BI | NajiElKotob | 173 |
 | 88 |  [PowerBI-ThemeTemplates](https://github.com/deldersveld/PowerBI-ThemeTemplates) | Snippets for assembling Power BI Themes | deldersveld | 245 |
 | 89 |  [bad-data-guide](https://github.com/Quartz/bad-data-guide) | An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them. | Quartz | 3850 |
@@ -915,7 +915,7 @@
 | 97 |  [mastering-spark-sql-book](https://github.com/jaceklaskowski/mastering-spark-sql-book) | The Internals of Spark SQL | jaceklaskowski | 285 |
 | 98 |  [transliteration](https://github.com/google/transliteration) | Transliteration data and models | google | 39 |
 | 99 |  [muze](https://github.com/chartshq/muze) | Composable data visualisation library for web with a data-first approach now powered by WebAssembly | chartshq | 1175 |
-| 100 |  [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) | Official Black Hat Arsenal Security Tools Repository | toolswatch | 2545 |
+| 100 |  [blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) | Official Black Hat Arsenal Security Tools Repository | toolswatch | 2546 |
 | 101 |  [automator-gallery](https://github.com/BlackwinMin/automator-gallery) | Original macOS Automator actions by Minja. | BlackwinMin | 108 |
 | 102 |  [2019](https://github.com/wwdc/2019) | Student submissions for the WWDC 2019 Scholarship | wwdc | 279 |
 | 103 |  [osx-re-101](https://github.com/michalmalik/osx-re-101) | A collection of resources for OSX/iOS reverse engineering. | michalmalik | 1493 |
@@ -932,7 +932,7 @@
 | 1 |  [editor](https://github.com/Humanise/editor) | Content Management System | Humanise | 1 |
 | 2 |  [reddit-booru](https://github.com/redditbooru/reddit-booru) | An aggregator that takes images from various subreddits and wraps a nice interface around them with advanced search features. | redditbooru | 49 |
 | 3 |  [Keka](https://github.com/aonez/Keka) | The macOS file archiver | aonez | 2421 |
-| 4 |  [monica](https://github.com/monicahq/monica) | Personal CRM. Remember everything about your friends, family and business relationships. | monicahq | 13318 |
+| 4 |  [monica](https://github.com/monicahq/monica) | Personal CRM. Remember everything about your friends, family and business relationships. | monicahq | 13319 |
 | 5 |  [Link-Preview](https://github.com/LeonardoCardoso/Link-Preview) | AngularJS + Bootstrap Version of https://github.com/LeonardoCardoso/Facebook-Link-Preview | LeonardoCardoso | 158 |
 
 **[⬆ Back to Index](#-contents)**
@@ -969,7 +969,7 @@
 ## PowerShell
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | Script to remove Windows 10 bloatware. | Sycnex | 10795 |
+| 1 |  [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) | Script to remove Windows 10 bloatware. | Sycnex | 10796 |
 | 2 |  [sql-docs](https://github.com/MicrosoftDocs/sql-docs) | Technical documentation for Microsoft SQL Server, tools such as SQL Server Management Studio (SSMS) ,  SQL Server Data Tools (SSDT) etc. | MicrosoftDocs | 706 |
 
 **[⬆ Back to Index](#-contents)**
@@ -978,11 +978,11 @@
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
 | 1 |  [ncprefs.py](https://github.com/drewdiver/ncprefs.py) | Control Notification Center via the command line | drewdiver | 9 |
-| 2 |  [theZoo](https://github.com/ytisf/theZoo) | A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. | ytisf | 7545 |
+| 2 |  [theZoo](https://github.com/ytisf/theZoo) | A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. | ytisf | 7547 |
 | 3 |  [exploits](https://github.com/theevilbit/exploits) |  | theevilbit | 52 |
 | 4 |  [catprinter](https://github.com/rbaron/catprinter) | 🐱🖨 | rbaron | 86 |
 | 5 |  [controlled-argument-generation](https://github.com/UKPLab/controlled-argument-generation) | Controlling Argument Generation via topic, stance, and aspect | UKPLab | 13 |
-| 6 |  [shillelagh](https://github.com/betodealmeida/shillelagh) | Making it easy to query APIs via SQL | betodealmeida | 73 |
+| 6 |  [shillelagh](https://github.com/betodealmeida/shillelagh) | Making it easy to query APIs via SQL | betodealmeida | 74 |
 | 7 |  [prefect](https://github.com/PrefectHQ/prefect) | The easiest way to automate your data | PrefectHQ | 6891 |
 | 8 |  [sqlflow_public](https://github.com/sqlparser/sqlflow_public) | Document, sample code and other materials for SQLFlow | sqlparser | 106 |
 | 9 |  [offlineimap](https://github.com/OfflineIMAP/offlineimap) | Read/sync your IMAP mailboxes (python2) | OfflineIMAP | 1635 |
@@ -1016,18 +1016,18 @@
 | 37 |  [magenta](https://github.com/magenta/magenta) | Magenta: Music and Art Generation with Machine Intelligence | magenta | 16979 |
 | 38 |  [vise](https://github.com/kovidgoyal/vise) | A keyboard driven browser with tabs in a tree | kovidgoyal | 78 |
 | 39 |  [macster](https://github.com/emre/macster) | You&#39;re in a starbucks thinking about to build the next killer-app with node.js and mongodb but you don&#39;t have a mac? | emre | 124 |
-| 40 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 41131 |
+| 40 |  [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) | The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. | minimaxir | 41132 |
 | 41 |  [dbt](https://github.com/dbt-labs/dbt) | dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications. | dbt-labs | 3502 |
 | 42 |  [railroads](https://github.com/Vsevalot/railroads) | Parses Russian Railroads open data, calculates closest distances between two stations | Vsevalot | 1 |
-| 43 |  [gibMacOS](https://github.com/corpnewt/gibMacOS) | Py2/py3 script that can download macOS components direct from Apple | corpnewt | 3729 |
-| 44 |  [osxmetadata](https://github.com/RhetTbull/osxmetadata) | Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata. | RhetTbull | 22 |
+| 43 |  [gibMacOS](https://github.com/corpnewt/gibMacOS) | Py2/py3 script that can download macOS components direct from Apple | corpnewt | 3731 |
+| 44 |  [osxmetadata](https://github.com/RhetTbull/osxmetadata) | Python package to read and write various MacOS extended attribute metadata such as tags/keywords and Finder comments from files. Includes CLI tool for reading/writing metadata. | RhetTbull | 23 |
 | 45 |  [Carnets](https://github.com/holzschu/Carnets) | Carnets is a stand-alone Jupyter notebook server and client. Edit your notebooks on the go, even where there is no network. | holzschu | 373 |
 | 46 |  [python-macadmin-tools](https://github.com/timsutton/python-macadmin-tools) | List of open-source Python-based Mac sysadmin tools | timsutton | 340 |
 | 47 |  [profiledocs](https://github.com/mosen/profiledocs) | Mobile Configuration Profile Documentation | mosen | 84 |
 | 48 |  [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) | Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines. | donnemartin | 21601 |
-| 49 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 159463 |
-| 50 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 144771 |
-| 51 |  [spleeter](https://github.com/deezer/spleeter) | Deezer source separation library including pretrained models. | deezer | 17481 |
+| 49 |  [public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | public-apis | 159494 |
+| 50 |  [system-design-primer](https://github.com/donnemartin/system-design-primer) | Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. | donnemartin | 144776 |
+| 51 |  [spleeter](https://github.com/deezer/spleeter) | Deezer source separation library including pretrained models. | deezer | 17482 |
 | 52 |  [ru_transformers](https://github.com/mgrankin/ru_transformers) |  | mgrankin | 736 |
 | 53 |  [recommenders](https://github.com/microsoft/recommenders) | Best Practices on Recommendation Systems | microsoft | 11289 |
 | 54 |  [python-scripts](https://github.com/retifrav/python-scripts) | My Python scripts | retifrav | 51 |
@@ -1040,7 +1040,7 @@
 | 61 |  [HLR-Lookups](https://github.com/SigPloiter/HLR-Lookups) | Locating Roaming location of a number, and collecting msisdn and opeartor related infromation (IMSI, HLR GT, MSC GT) | SigPloiter | 48 |
 | 62 |  [scripts](https://github.com/timsutton/scripts) | Miscellaneous scripts. | timsutton | 33 |
 | 63 |  [pycraft](https://github.com/itsapi/pycraft) | A Minecraft-inspired game for the terminal | itsapi | 134 |
-| 64 |  [Flashlight](https://github.com/w0lfschild/Flashlight) | :mag_right: Enhance Spotlight with plugins on macOS | w0lfschild | 1099 |
+| 64 |  [Flashlight](https://github.com/w0lfschild/Flashlight) | :mag_right: Enhance Spotlight with plugins on macOS | w0lfschild | 1100 |
 | 65 |  [runMacOSinVirtualBox](https://github.com/AlexanderWillner/runMacOSinVirtualBox) | Run macOS 10.16 Big Sur (and other versions) in VirtualBox on macOS | AlexanderWillner | 882 |
 | 66 |  [mac_list_windows_pids](https://github.com/sjitech/mac_list_windows_pids) | Mac OS X:  list all windows title and their owner process ids | sjitech | 51 |
 | 67 |  [rmLocalSnapshots](https://github.com/y4rr/rmLocalSnapshots) | Script to delete all local Time Machine snapshots | y4rr | 1 |
@@ -1049,10 +1049,10 @@
 | 70 |  [housemate-hunter](https://github.com/mariellefoster/housemate-hunter) | identifies and tracks known mac addresses on your subnet | mariellefoster | 13 |
 | 71 |  [toybox](https://github.com/WesleyAC/toybox) | A collection of small toy programs | WesleyAC | 20 |
 | 72 |  [streamalert](https://github.com/airbnb/streamalert) | StreamAlert is a serverless, realtime data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using datasources and alerting logic you define. | airbnb | 2590 |
-| 73 |  [knowledge-repo](https://github.com/airbnb/knowledge-repo) | A next-generation curated knowledge sharing platform for data scientists and other technical professions. | airbnb | 4877 |
+| 73 |  [knowledge-repo](https://github.com/airbnb/knowledge-repo) | A next-generation curated knowledge sharing platform for data scientists and other technical professions. | airbnb | 4878 |
 | 74 |  [Apache-Spark-Hands-On](https://github.com/Pushkr/Apache-Spark-Hands-On) | Educational notes,Hands on problems w/ solutions  for hadoop ecosystem | Pushkr | 79 |
 | 75 |  [edgedb](https://github.com/edgedb/edgedb) | The next generation relational database. | edgedb | 5209 |
-| 76 |  [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | apache | 40541 |
+| 76 |  [superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | apache | 40543 |
 | 77 |  [Neuron](https://github.com/arguiot/Neuron) | A tiny and very high level transfer learning library for image classification 📚 | arguiot | 10 |
 | 78 |  [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) | eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee | eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee | 8602 |
 | 79 |  [impyla](https://github.com/cloudera/impyla) | Python DB API 2.0 client for Impala and Hive (HiveServer2 protocol) | cloudera | 646 |
@@ -1106,9 +1106,9 @@
 | 1 |  [egui](https://github.com/emilk/egui) | egui: an easy-to-use immediate mode GUI in pure Rust | emilk | 5002 |
 | 2 |  [ncgopher](https://github.com/jansc/ncgopher) | A gopher and gemini client for the modern internet | jansc | 77 |
 | 3 |  [archivefs](https://github.com/bzf/archivefs) | Mount your archives and browse them as regular files | bzf | 8 |
-| 4 |  [fselect](https://github.com/jhspetersson/fselect) | Find files with SQL-like queries | jhspetersson | 3011 |
-| 5 |  [wezterm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust | wez | 2306 |
-| 6 |  [libreddit](https://github.com/spikecodes/libreddit) | Private front-end for Reddit | spikecodes | 1568 |
+| 4 |  [fselect](https://github.com/jhspetersson/fselect) | Find files with SQL-like queries | jhspetersson | 3010 |
+| 5 |  [wezterm](https://github.com/wez/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust | wez | 2307 |
+| 6 |  [libreddit](https://github.com/spikecodes/libreddit) | Private front-end for Reddit | spikecodes | 1570 |
 | 7 |  [gitui](https://github.com/extrawurst/gitui) | Blazing 💥 fast terminal-ui for git written in rust 🦀 | extrawurst | 5715 |
 | 8 |  [vault13](https://github.com/pingw33n/vault13) | Reimplementation of Fallout 2 engine | pingw33n | 143 |
 | 9 |  [hyperfine](https://github.com/sharkdp/hyperfine) | A command-line benchmarking tool | sharkdp | 8647 |
@@ -1133,7 +1133,7 @@
 |---	|---	|---	|---	|---	|
 | 1 |  [FiloDB](https://github.com/filodb/FiloDB) | Distributed Prometheus time series database | filodb | 1314 |
 | 2 |  [schedoscope](https://github.com/ottogroup/schedoscope) | Schedoscope is a scheduling framework for painfree agile development, testing, (re)loading, and monitoring of your datahub, lake, or whatever you choose to call your Hadoop data warehouse these days. | ottogroup | 94 |
-| 3 |  [quill](https://github.com/getquill/quill) | Compile-time Language Integrated Queries for Scala | getquill | 1923 |
+| 3 |  [quill](https://github.com/getquill/quill) | Compile-time Language Integrated Queries for Scala | getquill | 1924 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1150,19 +1150,19 @@
 | 8 |  [xcodelegacy](https://github.com/devernay/xcodelegacy) | Legacy components for XCode 4-9 (deprecated compilers and Mac OS X SDKs) | devernay | 385 |
 | 9 |  [create_macos_vm_install_dmg](https://github.com/rtrouton/create_macos_vm_install_dmg) |  | rtrouton | 272 |
 | 10 |  [Fridpa](https://github.com/tanprathan/Fridpa) | An automated wrapper script for patching iOS applications (IPA files) and work on non-jailbroken device | tanprathan | 86 |
-| 11 |  [awesome-console-services](https://github.com/chubin/awesome-console-services) | A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols) | chubin | 2665 |
-| 12 |  [z](https://github.com/rupa/z) | z - jump around | rupa | 13448 |
+| 11 |  [awesome-console-services](https://github.com/chubin/awesome-console-services) | A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols) | chubin | 2666 |
+| 12 |  [z](https://github.com/rupa/z) | z - jump around | rupa | 13447 |
 | 13 |  [WWDC](https://github.com/Blackjacx/WWDC) | You don&#39;t have the time to watch all the WWDC session videos yourself? No problem me and many contributors extracted the gist for you 🥳 | Blackjacx | 2557 |
 | 14 |  [hacker-laws](https://github.com/dwmkerr/hacker-laws) | 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws | dwmkerr | 18262 |
 | 15 |  [Scripts](https://github.com/erikberglund/Scripts) | Scripts and snippets I&#39;ve written | erikberglund | 73 |
 | 16 |  [AppleNVRAM](https://github.com/erikberglund/AppleNVRAM) | Apple NVRAM variables | erikberglund | 65 |
 | 17 |  [IPAPatch-Youtube-Reveal](https://github.com/zxl56123/IPAPatch-Youtube-Reveal) | 不需要越狱即可调试App ，可以使用PP助手下载砸壳ipa包，放入到IPAPatch-Youtube-Reveal/IPAPatch/Assets 目录下，命名为app.ipa 即可运行 | zxl56123 | 7 |
 | 18 |  [laptop](https://github.com/thoughtbot/laptop) | A shell script to set up a macOS laptop for web and mobile development. | thoughtbot | 8122 |
-| 19 |  [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 📖 A collection of pure bash alternatives to external processes. | dylanaraps | 27739 |
+| 19 |  [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) | 📖 A collection of pure bash alternatives to external processes. | dylanaraps | 27741 |
 | 20 |  [fff](https://github.com/dylanaraps/fff) | 📁 A simple file manager written in bash. | dylanaraps | 3359 |
-| 21 |  [realworld](https://github.com/gothinkster/realworld) | &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | gothinkster | 60407 |
+| 21 |  [realworld](https://github.com/gothinkster/realworld) | &#34;The mother of all demo apps&#34; — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 | gothinkster | 60409 |
 | 22 |  [automator-workflows](https://github.com/sparanoid/automator-workflows) | A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 and 7 Actions | sparanoid | 448 |
-| 23 |  [fisher](https://github.com/jorgebucaran/fisher) | A plugin manager for Fish. | jorgebucaran | 5145 |
+| 23 |  [fisher](https://github.com/jorgebucaran/fisher) | A plugin manager for Fish. | jorgebucaran | 5146 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1176,7 +1176,7 @@
 ## Swift
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [Pulse](https://github.com/kean/Pulse) | Logger and network inspector for Apple platforms | kean | 3541 |
+| 1 |  [Pulse](https://github.com/kean/Pulse) | Logger and network inspector for Apple platforms | kean | 3542 |
 | 2 |  [iTunesTopAlbumViewer](https://github.com/nehayward/iTunesTopAlbumViewer) | This is a simple macOS and iOS app to view the top 100 albums and open in the Music app. | nehayward | 1 |
 | 3 |  [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) | :iphone: Collaborative List of Open-Source iOS Apps | dkhamsing | 28223 |
 | 4 |  [Bootstrapp](https://github.com/apparata/Bootstrapp) | A macOS application for generating initial boilerplate primarily for Swift packages and Xcode projects. | apparata | 34 |
@@ -1201,7 +1201,7 @@
 | 23 |  [Euler](https://github.com/mattt/Euler) | Swift Custom Operators for Mathematical Notation | mattt | 1142 |
 | 24 |  [defaults-edit](https://github.com/ThatsJustCheesy/defaults-edit) | Graphical user defaults editor for macOS | ThatsJustCheesy | 8 |
 | 25 |  [ForkView](https://github.com/kainjow/ForkView) | macOS resource fork viewer | kainjow | 24 |
-| 26 |  [BLEUnlock](https://github.com/ts1/BLEUnlock) | Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices | ts1 | 620 |
+| 26 |  [BLEUnlock](https://github.com/ts1/BLEUnlock) | Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices | ts1 | 621 |
 | 27 |  [NineAnimator](https://github.com/SuperMarcus/NineAnimator) | An elegant way of discovering anime on iOS. | SuperMarcus | 443 |
 | 28 |  [waifu2x-video-mac](https://github.com/SuperMarcus/waifu2x-video-mac) | Super-resolution videos in macOS with Waifu2x. | SuperMarcus | 57 |
 | 29 |  [ShoB](https://github.com/iDara09/ShoB) | SwiftUI + CoreData &amp; iCloud AutoSync Project | iDara09 | 96 |
@@ -1225,19 +1225,19 @@
 | 47 |  [Control-Center](https://github.com/Minh-Ton/Control-Center) | A replica of the macOS Big Sur Control Center for macOS 10.12 - 10.15. | Minh-Ton | 61 |
 | 48 |  [BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow) | View MacOS and IOS battery Information | sicreative | 91 |
 | 49 |  [FeedCompass](https://github.com/vincode-io/FeedCompass) | Find and subscribe to RSS feeds. | vincode-io | 85 |
-| 50 |  [Rectangle](https://github.com/rxhanson/Rectangle) | Move and resize windows on macOS with keyboard shortcuts and snap areas | rxhanson | 12626 |
+| 50 |  [Rectangle](https://github.com/rxhanson/Rectangle) | Move and resize windows on macOS with keyboard shortcuts and snap areas | rxhanson | 12627 |
 | 51 |  [safarikai](https://github.com/ashchan/safarikai) | Safari extension for translating Japanese words. | ashchan | 183 |
 | 52 |  [RedditOS](https://github.com/Dimillian/RedditOS) | The product name is Curiosity, a SwiftUI Reddit client for macOS Big Sur | Dimillian | 3393 |
 | 53 |  [toolbar](https://github.com/marioaguzman/toolbar) | Programmatically constructing an NSToolbar | marioaguzman | 39 |
 | 54 |  [NSWindowStyles](https://github.com/lukakerr/NSWindowStyles) | A showcase of the many different styles of windows possible with NSWindow on macOS | lukakerr | 875 |
 | 55 |  [scout](https://github.com/ABridoux/scout) | Reading and writing in JSON, Plist, YAML and XML data made simple when the data format is not known at build time. Swift library and command-line tool. | ABridoux | 96 |
 | 56 |  [glance](https://github.com/samuelmeuli/glance) | 🔎 All-in-one Quick Look plugin | samuelmeuli | 836 |
-| 57 |  [stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | exelban | 5698 |
+| 57 |  [stats](https://github.com/exelban/stats) | macOS system monitor in your menu bar | exelban | 5699 |
 | 58 |  [Transmog](https://github.com/inket/Transmog) | A command-line tool for converting VSCode themes into Xcode themes 🎨🛠 | inket | 15 |
 | 59 |  [Komikan](https://github.com/DrabWeb/Komikan) | A fast, simple and elegant Manga manager and reader for OSX | DrabWeb | 80 |
 | 60 |  [MouseDef](https://github.com/zenangst/MouseDef) | :mouse:Move and resize windows by holding down modifier keys | zenangst | 14 |
 | 61 |  [Clipy](https://github.com/Clipy/Clipy) | Clipboard extension app for macOS. | Clipy | 5293 |
-| 62 |  [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) | VT100/Xterm Terminal emulator in Swift | migueldeicaza | 437 |
+| 62 |  [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) | VT100/Xterm Terminal emulator in Swift | migueldeicaza | 438 |
 | 63 |  [DetailsViewer](https://github.com/saagarjha/DetailsViewer) | A macOS Mail plugin to show extra details | saagarjha | 15 |
 | 64 |  [multi](https://github.com/kofigumbs/multi) | Create a custom, lightweight macOS app from a group of websites | kofigumbs | 795 |
 | 65 |  [quickdraw](https://github.com/maxchuquimia/quickdraw) | macOS app for drawing over the screen | maxchuquimia | 55 |
@@ -1254,7 +1254,7 @@
 | 76 |  [MusicBar](https://github.com/AlexPerathoner/MusicBar) | A handy menu bar app to pause Music when you mute the volume output. | AlexPerathoner | 3 |
 | 77 |  [Pixela.swift](https://github.com/Econa77/Pixela.swift) | Pixela API client for Swift | Econa77 | 4 |
 | 78 |  [spasibo](https://github.com/artemnovichkov/spasibo) | 🙏 Support your favourite open source projects | artemnovichkov | 78 |
-| 79 |  [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) | ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty. | Ji4n1ng | 3932 |
+| 79 |  [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) | ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty. | Ji4n1ng | 3933 |
 | 80 |  [DominantColor](https://github.com/indragiek/DominantColor) | Finding dominant colors of an image using k-means clustering | indragiek | 859 |
 | 81 |  [HyperCardPreview](https://github.com/PierreLorenzi/HyperCardPreview) | Little app to see HyperCard stacks in Mac OS X. Programmed in Swift. | PierreLorenzi | 97 |
 | 82 |  [CoreStore](https://github.com/JohnEstropia/CoreStore) | Unleashing the real power of Core Data with the elegance and safety of Swift | JohnEstropia | 3141 |
@@ -1313,7 +1313,7 @@
 | 135 |  [FootballDataSwiftUI](https://github.com/alfianlosari/FootballDataSwiftUI) | Display Football Data such as scores, upcoming match, team standing, top scorers with football Data API and SwiftUI | alfianlosari | 67 |
 | 136 |  [swiftui-data-flow](https://github.com/trozware/swiftui-data-flow) | An Xcode project for demonstrating SwiftUI data flow. | trozware | 33 |
 | 137 |  [simsim](https://github.com/dsmelov/simsim) | Use SimSim to explore iOS application folders in Terminal or Finder. Fast, stable, free alternative to SimPholders. | dsmelov | 1309 |
-| 138 |  [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps | serhii-londar | 28153 |
+| 138 |  [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) | 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps | serhii-londar | 28154 |
 | 139 |  [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) | A command-line tool and Xcode Extension for formatting Swift code | nicklockwood | 5075 |
 | 140 |  [swiftui-mac](https://github.com/trozware/swiftui-mac) | Sample app to accompany article. | trozware | 129 |
 | 141 |  [episode-code-samples](https://github.com/pointfreeco/episode-code-samples) | 💾 Point-Free episode code. | pointfreeco | 570 |
@@ -1400,7 +1400,7 @@
 | 222 |  [VertexKit](https://github.com/heestand-xyz/VertexKit) | a Framework for iOS &amp; macOS | heestand-xyz | 40 |
 | 223 |  [iOS12-Siri-Shortcuts-Example](https://github.com/hansemannn/iOS12-Siri-Shortcuts-Example) | An example of using Siri Shortcuts in iOS 12 and later. | hansemannn | 41 |
 | 224 |  [Opener](https://github.com/gawashburn/Opener) | Marta file manager plugin for customizable &#34;opening&#34; | gawashburn | 2 |
-| 225 |  [SnapKit](https://github.com/SnapKit/SnapKit) | A Swift Autolayout DSL for iOS &amp; OS X | SnapKit | 17853 |
+| 225 |  [SnapKit](https://github.com/SnapKit/SnapKit) | A Swift Autolayout DSL for iOS &amp; OS X | SnapKit | 17856 |
 | 226 |  [Just](https://github.com/dduan/Just) | Swift HTTP for Humans | dduan | 1356 |
 | 227 |  [colour-clustering-playground](https://github.com/ahoppen/colour-clustering-playground) | My WWDC 2019 scholarship application | ahoppen | 12 |
 | 228 |  [whats-new-in-swift-4-2](https://github.com/ole/whats-new-in-swift-4-2) | An Xcode playground demonstrating the new features in in Swift 4.2. | ole | 891 |
@@ -1424,7 +1424,7 @@
 | 246 |  [Unwrap](https://github.com/twostraws/Unwrap) | Learn Swift interactively on your iPhone. | twostraws | 1886 |
 | 247 |  [rubber-range-picker](https://github.com/Cuberto/rubber-range-picker) |  | Cuberto | 393 |
 | 248 |  [InstagramClone](https://github.com/mac-gallagher/InstagramClone) | A detailed clone of the Instagram app built with the Firebase database | mac-gallagher | 199 |
-| 249 |  [MultiProgressView](https://github.com/mac-gallagher/MultiProgressView) | 📊 An animatable view that depicts multiple progresses over time. Modeled after UIProgressView | mac-gallagher | 756 |
+| 249 |  [MultiProgressView](https://github.com/mac-gallagher/MultiProgressView) | 📊 An animatable view that depicts multiple progresses over time. Modeled after UIProgressView | mac-gallagher | 757 |
 | 250 |  [NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton) | Revamped Download Button. It&#39;s kinda a reverse engineering of Netflix&#39;s app download button. | LeonardoCardoso | 432 |
 | 251 |  [FaceAware](https://github.com/BeauNouvelle/FaceAware) | An extension that gives UIImageView the ability to focus on faces within an image. | BeauNouvelle | 2990 |
 | 252 |  [Result](https://github.com/antitypical/Result) | Swift type modelling the success/failure of arbitrary operations. | antitypical | 2524 |
@@ -1466,7 +1466,7 @@
 ## Tcl
 |  | Name 	|  Description 	| Author  	|  Stars 	|
 |---	|---	|---	|---	|---	|
-| 1 |  [agave](https://github.com/blobject/agave) | succulent monospaced programming font | blobject | 334 |
+| 1 |  [agave](https://github.com/blobject/agave) | succulent monospaced programming font | blobject | 333 |
 
 **[⬆ Back to Index](#-contents)**
 
@@ -1486,7 +1486,7 @@
 | 4 |  [is-your-waifu-legal](https://github.com/yourWaifu/is-your-waifu-legal) | Check if your waifu is legal or not | yourWaifu | 52 |
 | 5 |  [Treeverse](https://github.com/paulgb/Treeverse) | A browser extension for navigating burgeoning Twitter conversations | paulgb | 401 |
 | 6 |  [scriptcat](https://github.com/scriptscat/scriptcat) | 脚本猫,一个可以执行用户脚本的浏览器扩展,万物皆可脚本化,让你的浏览器可以做更多的事情! | scriptscat | 100 |
-| 7 |  [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection | FlareSolverr | 590 |
+| 7 |  [FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection | FlareSolverr | 591 |
 | 8 |  [reduplicator](https://github.com/mixaildudin/reduplicator) | Лексический редупликатор слов русского языка | mixaildudin | 11 |
 | 9 |  [YoptaScript](https://github.com/samgozman/YoptaScript) | Скриптовый язык программирования для гопников и реальных пацанов | samgozman | 1478 |
 | 10 |  [scriptable-calendar-widget](https://github.com/rudotriton/scriptable-calendar-widget) | Customizable iOS Calendar widget for https://scriptable.app/ | rudotriton | 70 |
@@ -1502,7 +1502,7 @@
 | 20 |  [deep-override](https://github.com/AdguardTeam/deep-override) |  | AdguardTeam | 6 |
 | 21 |  [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) | 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus) | soroushchehresa | 1446 |
 | 22 |  [Kap](https://github.com/wulkano/Kap) | An open-source screen recorder built with web technology | wulkano | 14161 |
-| 23 |  [minisearch](https://github.com/lucaong/minisearch) | Tiny and powerful JavaScript full-text search engine for browser and Node | lucaong | 850 |
+| 23 |  [minisearch](https://github.com/lucaong/minisearch) | Tiny and powerful JavaScript full-text search engine for browser and Node | lucaong | 852 |
 | 24 |  [pixiv.moe](https://github.com/kokororin/pixiv.moe) | 😘 A pinterest-style layout site, shows illusts on pixiv.net order by popularity. https://pixiv.moe | kokororin | 286 |
 | 25 |  [metastream](https://github.com/samuelmaddock/metastream) | Watch streaming media with friends. | samuelmaddock | 1835 |
 | 26 |  [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) | Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events. | Cookie-AutoDelete | 1142 |
@@ -1514,7 +1514,7 @@
 | 32 |  [geeks-diary](https://github.com/seokju-na/geeks-diary) | TIL writing tool for programmer | seokju-na | 656 |
 | 33 |  [notable](https://github.com/notable/notable) | The Markdown-based note-taking app that doesn&#39;t suck. | notable | 18472 |
 | 34 |  [readability2](https://github.com/mvasilkov/readability2) | Readability2 converts HTML to plain text. | mvasilkov | 104 |
-| 35 |  [Musish](https://github.com/Musish/Musish) | Apple Music...ish | Musish | 2719 |
+| 35 |  [Musish](https://github.com/Musish/Musish) | Apple Music...ish | Musish | 2718 |
 
 **[⬆ Back to Index](#-contents)**
 
